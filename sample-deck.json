@@ -1,0 +1,45 @@
+{
+  "name": "JavaScript Basics",
+  "cards": [
+    {
+      "question": "What is a closure in JavaScript?",
+      "answer": "A closure is a function that has access to variables in its outer (enclosing) lexical scope, even after the outer function has returned."
+    },
+    {
+      "question": "What is the difference between 'let' and 'var'?",
+      "answer": "'let' is block-scoped and cannot be redeclared in the same scope, while 'var' is function-scoped and can be redeclared. 'let' also doesn't get hoisted to the top of the scope."
+    },
+    {
+      "question": "What does the spread operator (...) do?",
+      "answer": "The spread operator expands an iterable (like an array) into individual elements. It can be used to copy arrays, combine arrays, or pass array elements as function arguments."
+    },
+    {
+      "question": "What is the purpose of 'use strict'?",
+      "answer": "'use strict' enables strict mode, which catches common coding errors, prevents the use of certain error-prone features, and throws more exceptions."
+    },
+    {
+      "question": "What is the event loop?",
+      "answer": "The event loop is a mechanism that handles asynchronous operations in JavaScript by continuously checking the call stack and callback queue, executing callbacks when the stack is empty."
+    },
+    {
+      "question": "What is the difference between == and ===?",
+      "answer": "== performs type coercion before comparison (loose equality), while === compares both value and type without coercion (strict equality)."
+    },
+    {
+      "question": "What is a promise?",
+      "answer": "A Promise is an object representing the eventual completion or failure of an asynchronous operation. It has three states: pending, fulfilled, or rejected."
+    },
+    {
+      "question": "What is destructuring?",
+      "answer": "Destructuring is a syntax that allows unpacking values from arrays or properties from objects into distinct variables in a concise way."
+    },
+    {
+      "question": "What is the difference between null and undefined?",
+      "answer": "undefined means a variable has been declared but not assigned a value, while null is an assignment value representing 'no value' or 'empty'."
+    },
+    {
+      "question": "What are arrow functions?",
+      "answer": "Arrow functions are a shorter syntax for writing function expressions. They don't have their own 'this' binding and cannot be used as constructors."
+    }
+  ]
+}
