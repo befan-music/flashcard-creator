@@ -1,0 +1,233 @@
+{
+  "name": "Latent Variable Modeling",
+  "cards": [
+    {
+      "question": "Slide 12: What are the two necessary conditions for measurement?",
+      "answer": "Unambiguous (one-to-one correspondence between symbol and characteristic) and Consistent (rules must be invariant over time and objects)"
+    },
+    {
+      "question": "Slide 12: What is measurement in research?",
+      "answer": "The standardized process of assigning numbers or other symbols to certain characteristics of objects of interest, according to pre-specified rules"
+    },
+    {
+      "question": "Slide 12: What does the 'unambiguous' condition mean in measurement?",
+      "answer": "There must be a one-to-one correspondence between the symbol and the characteristic in the object being measured"
+    },
+    {
+      "question": "Slide 12: What does the 'consistent' condition mean in measurement?",
+      "answer": "The rules for assignment must be invariant over time and the objects being measured"
+    },
+    {
+      "question": "Slide 12: How are abstract concepts like attitudes or perceptions different from concrete measures?",
+      "answer": "Abstract concepts cannot be directly measured with simple symbol assignments like gender or unit sales, requiring more complex measurement approaches"
+    },
+    {
+      "question": "Slide 15-16: What is the purpose of these slides in the tutorial?",
+      "answer": "To guide students on resources for finding established measurement scales for constructs"
+    },
+    {
+      "question": "Slide 15-16: Why is it important to use existing measurement scales when available?",
+      "answer": "They have been validated and tested for reliability and validity in previous research"
+    },
+    {
+      "question": "Slide 15-16: What should researchers do when measuring constructs?",
+      "answer": "Search for existing, validated measurement scales rather than creating new ones from scratch"
+    },
+    {
+      "question": "Slide 15-16: What type of resources typically contain measurement scales?",
+      "answer": "Academic journals, scale handbooks, and databases of validated instruments"
+    },
+    {
+      "question": "Slide 15-16: What is the advantage of using established scales?",
+      "answer": "They have proven psychometric properties and allow for comparison across studies"
+    },
+    {
+      "question": "Slide 19-21: What are participants measuring in the exercise?",
+      "answer": "Their internal perception of 10-second time intervals"
+    },
+    {
+      "question": "Slide 19-21: How does this exercise relate to the True Score Model?",
+      "answer": "It demonstrates how observed measures deviate from the true value (10 seconds) due to random and systematic errors"
+    },
+    {
+      "question": "Slide 22: What does Team A represent in the measurement scenarios?",
+      "answer": "Valid and reliable measurement with negligible error"
+    },
+    {
+      "question": "Slide 22: What does Team B represent in the measurement scenarios?",
+      "answer": "Reliable but invalid measurement with systematic error"
+    },
+    {
+      "question": "Slide 22: What does Team C represent in the measurement scenarios?",
+      "answer": "Not reliable and invalid measurement with random error"
+    },
+    {
+      "question": "Slide 22: What does Team D represent in the measurement scenarios?",
+      "answer": "Invalid and not reliable measurement with both random and systematic error"
+    },
+    {
+      "question": "Slide 22: What is the relationship between reliability and validity?",
+      "answer": "Reliability is a necessary condition for validity"
+    },
+    {
+      "question": "Slide 23: Can a measure be valid without being reliable?",
+      "answer": "No, reliability is a necessary condition for validity"
+    },
+    {
+      "question": "Slide 23: What pattern shows reliable but invalid measurement?",
+      "answer": "Team B - clustered results that are consistently off-target (systematic error)"
+    },
+    {
+      "question": "Slide 23: What pattern shows unreliable and invalid measurement?",
+      "answer": "Team C (random error) or Team D (both random and systematic error) - scattered results"
+    },
+    {
+      "question": "Slide 23: What is the ideal measurement scenario?",
+      "answer": "Team A - valid and reliable with negligible error, hitting the target consistently"
+    },
+    {
+      "question": "Slide 23: Why can't a measure be valid if it's not reliable?",
+      "answer": "If measurements are inconsistent (unreliable), they cannot consistently capture the true value (valid)"
+    },
+    {
+      "question": "Slide 24: What is test-retest reliability?",
+      "answer": "Administering the same test to the same respondents on two different occasions; the correlation between observations is the test-retest reliability"
+    },
+    {
+      "question": "Slide 24: What is internal consistency reliability?",
+      "answer": "Conceiving indicators as different tests of the same theoretical concept at the same point in time; highly correlated if measuring the same concept"
+    },
+    {
+      "question": "Slide 24: What is Cronbach's alpha?",
+      "answer": "Mathematically equivalent to the average of all possible split-half estimates; the most frequently used estimate of internal consistency"
+    },
+    {
+      "question": "Slide 24: What is the acceptable range for Cronbach's alpha?",
+      "answer": "Above 0.7 but not higher than 0.95; for newly developed scales, 0.6 is acceptable"
+    },
+    {
+      "question": "Slide 24: What is split-half reliability?",
+      "answer": "Randomly dividing all items into two sets; the correlation between total scores for each half is the split-half reliability estimate"
+    },
+    {
+      "question": "Slide 25: What is content validity?",
+      "answer": "The extent to which a measure represents all facets of a given construct"
+    },
+    {
+      "question": "Slide 25: What is convergent validity?",
+      "answer": "The degree to which a construct explains the variance of its items"
+    },
+    {
+      "question": "Slide 25: What is discriminant validity?",
+      "answer": "Ensures that a measure is empirically unique and represents phenomena that other measures in the model do not capture"
+    },
+    {
+      "question": "Slide 25: What is the difference between face validity and content validity?",
+      "answer": "Face validity is subjective perception of coverage; content validity is actual representation of all construct facets"
+    },
+    {
+      "question": "Slide 25: What is predictive validity?",
+      "answer": "The extent to which an instrument predicts the outcome of another variable measured at a later point in time"
+    },
+    {
+      "question": "Slide 26: What are the main topics covered in this tutorial?",
+      "answer": "Recap quiz, measuring constructs, measurement quality, and the Gnome Experiment case study"
+    },
+    {
+      "question": "Slide 26: Which chapters of the textbook does this tutorial cover?",
+      "answer": "Chapters 3 and 4"
+    },
+    {
+      "question": "Slide 26: What is the practical case study used in this tutorial?",
+      "answer": "The Gnome Experiment"
+    },
+    {
+      "question": "Slide 26: What theoretical topics are covered before the case study?",
+      "answer": "Measuring constructs and measurement quality (reliability and validity)"
+    },
+    {
+      "question": "Slide 26: What is the structure of the tutorial session?",
+      "answer": "Lecture recap with quiz, theoretical review, and applied case study"
+    },
+    {
+      "question": "Slide 28: What was the Gnome Experiment?",
+      "answer": "The world's first mass participation experiment showing that gravity varies from place to place and can affect weight"
+    },
+    {
+      "question": "Slide 28: Who was Kern in the experiment?",
+      "answer": "A chip-proof garden gnome who served as the star of the experiment"
+    },
+    {
+      "question": "Slide 28: What was the purpose of using a gnome in the experiment?",
+      "answer": "To provide the campaign with a universally appealing personality"
+    },
+    {
+      "question": "Slide 28: What scientific principle did the experiment demonstrate?",
+      "answer": "That gravity varies from place to place and can affect weight"
+    },
+    {
+      "question": "Slide 28: Who conducted the Gnome Experiment campaign?",
+      "answer": "OgilvyOne Worldwide for Kern"
+    },
+    {
+      "question": "Slide 29: What is the main question posed in Task 1?",
+      "answer": "How do we know whether a Kern scale's measurement is good?"
+    },
+    {
+      "question": "Slide 29: What three concepts must be considered when answering Task 1?",
+      "answer": "The true score model (classical test theory), reliability, and validity"
+    },
+    {
+      "question": "Slide 29: What is being measured by the Kern scale?",
+      "answer": "Weight (as affected by variations in gravity)"
+    },
+    {
+      "question": "Slide 29: Why is measurement quality important for the Kern scale experiment?",
+      "answer": "To ensure accurate detection of weight variations due to gravitational differences across locations"
+    },
+    {
+      "question": "Slide 29: What theoretical framework is applied to evaluate the Kern scale?",
+      "answer": "Classical test theory including the true score model, reliability, and validity"
+    },
+    {
+      "question": "Slide 30: How does the true score model apply to the Kern scale?",
+      "answer": "Xobserved (scale reading) = Xtrue (actual weight) + Ɛrandom (random measurement error) + Ɛsystematic (systematic bias)"
+    },
+    {
+      "question": "Slide 30: What is Xobserved in the context of the Kern scale?",
+      "answer": "The weight reading displayed by the scale"
+    },
+    {
+      "question": "Slide 30: What is Xtrue in the context of the Kern scale?",
+      "answer": "The actual true weight that we cannot observe directly"
+    },
+    {
+      "question": "Slide 30: What could cause random error in the Kern scale measurement?",
+      "answer": "Inconsistencies in scale readings, environmental vibrations, or measurement variations"
+    },
+    {
+      "question": "Slide 30: What could cause systematic error in the Kern scale measurement?",
+      "answer": "Calibration bias, consistent over- or under-estimation, or temperature effects on the scale mechanism"
+    },
+    {
+      "question": "Slide 31: What would valid and reliable Kern scale measurements look like?",
+      "answer": "Consistently accurate weight readings with negligible random and systematic error"
+    },
+    {
+      "question": "Slide 31: What would reliable but invalid Kern scale measurements indicate?",
+      "answer": "Consistent readings but systematically biased (e.g., always reading 2 grams too heavy)"
+    },
+    {
+      "question": "Slide 31: What would unreliable and invalid measurements suggest about the Kern scale?",
+      "answer": "Both inconsistent readings (random error) and systematic bias in the measurements"
+    },
+    {
+      "question": "Slide 31: What scenario shows only random error in Kern scale measurements?",
+      "answer": "Not reliable and invalid - scattered, inconsistent readings around an inaccurate average"
+    },
+    {
+      "question": "Slide 31: Why is the reliability-validity framework important for evaluating the Kern scale?",
+      "answer": "It helps identify whether measurement problems are due to inconsistency (reliability) or systematic bias (validity), guiding improvements"
+    }
+  ]
+}
