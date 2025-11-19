@@ -1,0 +1,209 @@
+{
+  "name": "Gathering Primary Data",
+  "cards": [
+    {
+      "question": "What are the two main categories of data collection procedures?",
+      "answer": "Primary data (collected firsthand for a specific research purpose) and Secondary data (data that already exists and was collected for another purpose)."
+    },
+    {
+      "question": "What are the two main approaches to collecting primary data?",
+      "answer": "Observe (observational studies, test markets, experiments) and Ask (surveys, depth interviews, focus groups, projective techniques)."
+    },
+    {
+      "question": "What are the two types of secondary data sources?",
+      "answer": "Internal (company records, sales reports, existing research studies) and External (governments, trade associations, market research firms, consulting firms, databases, internet & social networks)."
+    },
+    {
+      "question": "What are the 7 steps in designing a survey?",
+      "answer": "1. Set the goal of the survey, 2. Determine type of questionnaire and method of administration, 3. Design the items, 4. Set the scale, 5. Design the questionnaire, 6. Pretest the questionnaire, 7. Execution."
+    },
+    {
+      "question": "What key aspects should be considered when setting the goal of a survey?",
+      "answer": "Statistical analyses required for the study, and data required to do the analyses (sample size, number of variables, measurement scales). Always consider the type of information or advice you want to give based on the survey."
+    },
+    {
+      "question": "What are the four main methods of survey administration?",
+      "answer": "Face-to-face interviews, Web surveys, Phone (CATI - Computer Assisted Telephone Interviewing), and Mail surveys."
+    },
+    {
+      "question": "Which survey method has the lowest costs?",
+      "answer": "Web surveys have the lowest costs, while face-to-face interviews have the highest costs."
+    },
+    {
+      "question": "Which survey method allows for the maximum length questionnaire?",
+      "answer": "Face-to-face interviews allow for the longest questionnaires, followed by mail surveys."
+    },
+    {
+      "question": "Which survey administration method has the least interviewer bias?",
+      "answer": "Web surveys and mail surveys have the least interviewer bias since there is no interviewer present."
+    },
+    {
+      "question": "What are the guiding questions for determining item content in survey design?",
+      "answer": "Can all respondents answer each item? Can all respondents construct or recall an answer? Are all respondents willing to give an answer?"
+    },
+    {
+      "question": "What is the difference between open-ended and closed-ended questions?",
+      "answer": "Open-ended (verbatim) questions allow respondents to answer in their own words (e.g., 'Please describe how you found out about our services'), while closed-ended questions provide predefined response options (e.g., checkboxes for Recommendations, TV ads, Facebook, Other)."
+    },
+    {
+      "question": "What does the KISS principle mean in item wording?",
+      "answer": "Keep It Simple and Straightforward - use simple, clear language when wording survey items."
+    },
+    {
+      "question": "Should you use active or passive voice in survey items?",
+      "answer": "Use active voice instead of passive voice for clearer, more direct questions."
+    },
+    {
+      "question": "What are reverse-scaled items and what are their advantages?",
+      "answer": "Reverse-scaled items are negatively worded items (e.g., 'I'm not satisfied with...'). Advantages: cognitive 'speed bumps', reduce acquiescence bias, easier identification of straight-lining."
+    },
+    {
+      "question": "What are the disadvantages of reverse-scaled items?",
+      "answer": "Respondents may not recognize the negative wording, and they can generate artificial factors in analysis."
+    },
+    {
+      "question": "What is back-translation and when is it used?",
+      "answer": "Back-translation is used to keep conceptual equivalence when transferring surveys to different languages. The survey is translated to another language, then translated back to check for meaning preservation."
+    },
+    {
+      "question": "What are the 6 things to avoid when designing survey items?",
+      "answer": "1. Negations (especially double negatives), 2. Vague quantifiers, 3. Suggestive questions, 4. Double-barreled questions, 5. Questions that respondents cannot answer, 6. Jargon and slang."
+    },
+    {
+      "question": "What is a double-barreled question and why should it be avoided?",
+      "answer": "A double-barreled question asks about two things at once (e.g., 'I am satisfied with the products and services'). It should be avoided because respondents cannot indicate different opinions about each part. Split into separate questions instead."
+    },
+    {
+      "question": "What are the three main types of scales used in surveys?",
+      "answer": "1. Likert scale (agreement scale: Strongly disagree to Strongly agree), 2. Semantic differential (bipolar adjectives: Serious-Fun, Expensive-Affordable), 3. Rank order scale (ranking items by preference or importance)."
+    },
+    {
+      "question": "What are the three scale levels and their basic characteristics?",
+      "answer": "1. Nominal: numbers identify and classify objects (e.g., gender, brands), 2. Ordinal: numbers indicate relative positions but not magnitude of differences (e.g., rankings), 3. Interval: differences between objects can be compared with equal intervals (e.g., attitudes, age, income)."
+    },
+    {
+      "question": "What descriptive statistics are permissible for nominal scales?",
+      "answer": "Percentages and mode (most frequent value)."
+    },
+    {
+      "question": "What descriptive statistics are permissible for interval scales?",
+      "answer": "Range, mean, and standard deviation (in addition to all nominal and ordinal statistics)."
+    },
+    {
+      "question": "What inferential statistics can be used with interval scales?",
+      "answer": "Product-moment correlation, t-tests, ANOVA, regression, and PCA (Principal Component Analysis)."
+    },
+    {
+      "question": "What is equidistance in Likert scales?",
+      "answer": "Equidistance means assuming that the psychological distance between categories is equal (e.g., the distance from 'Strongly disagree' to 'Somewhat disagree' equals the distance from 'Somewhat disagree' to 'Neutral'). This assumption allows treating ordinal Likert scales as interval scales."
+    },
+    {
+      "question": "How many response categories are typically used in marketing research vs. practice?",
+      "answer": "In marketing research, 5 or 7-point scales are usually used. In marketing practice, 10-point scales are common, but they have trivial wording differences between scale points."
+    },
+    {
+      "question": "What is the difference between forced-choice and free-choice scales?",
+      "answer": "Forced-choice scales omit the neutral category (e.g., 4 or 6-point scales) to force respondents to choose a positive or negative position. Free-choice scales include a neutral option (e.g., 5 or 7-point scales) and minimize response biases."
+    },
+    {
+      "question": "Which type of scale do respondents prefer: forced-choice or free-choice?",
+      "answer": "Respondents are more comfortable with free-choice scales that include a neutral option, as they minimize different types of response biases."
+    },
+    {
+      "question": "What is important about designing response categories for factual questions?",
+      "answer": "Ensure no overlap in response categories. Also note that response categories give respondents hints about acceptable ranges - the middle of the scale is seen as normal, and respondents position themselves relative to that."
+    },
+    {
+      "question": "Should you label all response categories or just the endpoints?",
+      "answer": "It's common to label all categories for clarity. For predictive analytics, labeling only endpoints is sometimes used. Fully labeled scales are generally recommended."
+    },
+    {
+      "question": "When should you use a 'Don't know' option in surveys?",
+      "answer": "Use 'Don't know' options only for factual questions. Do NOT use for questions related to attitudes, perceptions, and preferences."
+    },
+    {
+      "question": "What is a balanced scale versus an unbalanced scale?",
+      "answer": "A balanced scale has equal numbers of positive and negative response options (e.g., 2 disagree, 1 neutral, 2 agree). An unbalanced scale has unequal numbers (e.g., 2 disagree, 1 disagree, 1 neutral, 1 agree). Note: many constructs cannot have negative values (e.g., negative trust)."
+    },
+    {
+      "question": "What should be included on the starting pages of a questionnaire?",
+      "answer": "University/institute collaboration (if applicable), importance and goal description, confidentiality statement, later use of results, example question with answer, specific context if applicable, research team picture (optional), contact details for questions/problems."
+    },
+    {
+      "question": "What is the recommended question order in a survey (funnel approach)?",
+      "answer": "1. Screeners or classification questions, 2. Key variables (dependent first, then independent), 3. Funnel approach (general questions first, then details; sensitive questions at the end), 4. Demographics (if no screeners)."
+    },
+    {
+      "question": "What are the layout and format recommendations for surveys?",
+      "answer": "Concise layout for both mail and web surveys; avoid small, colored, and atypical fonts; use booklets or single-sided stapled paper for mail surveys; use percentage counter for web surveys; ensure mobile and tablet compatibility."
+    },
+    {
+      "question": "What fonts should be avoided in survey design?",
+      "answer": "Avoid small fonts, colored fonts, and atypical fonts (like script/handwriting fonts) as they reduce readability."
+    },
+    {
+      "question": "What are the key aspects of pretesting a questionnaire?",
+      "answer": "Pretest in the relevant environment, with relevant stakeholders, and with subjects from the basic population (target group)."
+    },
+    {
+      "question": "What should be done during the execution phase of a survey?",
+      "answer": "Monitor the agency/institute conducting the survey and make refinements as needed based on feedback and initial results."
+    },
+    {
+      "question": "What is a depth interview?",
+      "answer": "A depth interview is a one-on-one qualitative research method where a trained interviewer conducts an in-depth conversation with a single respondent to explore their attitudes, opinions, and motivations."
+    },
+    {
+      "question": "What is a focus group?",
+      "answer": "A focus group is a qualitative research method where a small group of people (typically 6-10) discuss a topic under the guidance of a moderator, allowing for group interaction and idea generation."
+    },
+    {
+      "question": "How do group interactions differ between focus groups and depth interviews?",
+      "answer": "Focus groups have group interaction that may stimulate new thoughts from respondents. Depth interviews have no group interaction, so stimulation for new ideas comes from the interviewer."
+    },
+    {
+      "question": "How does peer pressure affect focus groups versus depth interviews?",
+      "answer": "In focus groups, group pressure and stimulation may clarify and challenge thinking, but peer pressure and role playing can occur. In depth interviews, there's no peer pressure and role playing is minimized with only one respondent."
+    },
+    {
+      "question": "How does respondent competition differ between focus groups and depth interviews?",
+      "answer": "In focus groups, respondents compete for time to talk, resulting in less depth per participant. In depth interviews, the individual is alone with the interviewer in a non-competitive environment with more time for detailed information."
+    },
+    {
+      "question": "How does the potential for bias differ between focus groups and depth interviews?",
+      "answer": "In focus groups, responses may be biased by opinions of other group members. In depth interviews, there's no potential for influences from other respondents."
+    },
+    {
+      "question": "Which method is better for sensitive subjects: focus groups or depth interviews?",
+      "answer": "Depth interviews are better for sensitive subjects because respondents may be more willing to talk freely. In focus groups, respondents may be hesitant to discuss sensitive topics in front of others."
+    },
+    {
+      "question": "How does interviewer fatigue compare between focus groups and depth interviews?",
+      "answer": "One interviewer can easily conduct several focus group sessions without fatigue or boredom. For depth interviews, interviewer fatigue and boredom are problems when many individual interviews are needed."
+    },
+    {
+      "question": "How do focus groups and depth interviews compare in terms of cost and time?",
+      "answer": "Focus groups allow a relatively large amount of information to be obtained in a short time at relatively small cost. Depth interviews can obtain a large amount of information but take more time to obtain and analyze, resulting in relatively high costs."
+    },
+    {
+      "question": "How does the amount of stimulus material differ between focus groups and depth interviews?",
+      "answer": "In focus groups, the volume of stimulus materials that can be used is somewhat limited. In depth interviews, a fairly large amount of stimulus material can be used."
+    },
+    {
+      "question": "Which is easier to schedule: focus groups or depth interviews?",
+      "answer": "Individual depth interviews are easier to schedule. It may be difficult to assemble 8-10 respondents for a focus group, especially if they are hard to recruit (such as busy executives)."
+    },
+    {
+      "question": "What are projective techniques?",
+      "answer": "Projective techniques are special testing procedures, usually used in depth interviews, where participants may not be aware of the research's specific purpose. They reveal unconscious attitudes and motivations through indirect questioning."
+    },
+    {
+      "question": "What are the main types of projective techniques?",
+      "answer": "Sentence completion (e.g., 'An Apple Mac user is someone who...'), word associations, and cartoon tests (where respondents fill in thought/speech bubbles)."
+    },
+    {
+      "question": "Give examples of sentence completion projective techniques.",
+      "answer": "'An Apple Mac laptop user is someone who...' or 'The Apple brand makes me think of...' or 'Apple Mac laptops are most liked by...'"
+    }
+  ]
+}
