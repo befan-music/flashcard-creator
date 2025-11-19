@@ -1,0 +1,205 @@
+{
+  "name": "Systematic Literature Review",
+  "cards": [
+    {
+      "question": "What is the main purpose of a systematic literature review?",
+      "answer": "To draw robust and broad conclusions by producing an unbiased summary of what the cumulative evidence says on a particular topic, using pre-specified eligibility criteria to collect and summarize all relevant empirical evidence."
+    },
+    {
+      "question": "What does PRISMA stand for?",
+      "answer": "PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Analyses. It is an evidence-based minimum set of items for reporting in systematic reviews and meta-analyses."
+    },
+    {
+      "question": "What are the 5 main aims of literature reviews according to Siddaway et al. (2019)?",
+      "answer": "1) Draw robust and unbiased conclusions on a topic, 2) Critique and synthesize literature by identifying relations, contradictions, gaps, and inconsistencies, 3) Develop/evaluate theories, 4) Provide implications for practice and policy, 5) Outline directions for future research."
+    },
+    {
+      "question": "What is a systematic review?",
+      "answer": "A systematic review answers a defined research question by collecting and summarizing all empirical evidence that fits pre-specified eligibility criteria. It uses a structured, transparent, and replicable methodology."
+    },
+    {
+      "question": "What is a meta-analysis?",
+      "answer": "A meta-analysis synthesizes individual quantitative studies' effect sizes and evaluates the resulting summary effect's statistical significance. Its results identify effects that can be considered as scientifically proven."
+    },
+    {
+      "question": "What is a bibliometric analysis?",
+      "answer": "A bibliometric analysis uses machine learning methods to identify core research or authors, as well as their relationships, by covering all the publications related to a given topic or field."
+    },
+    {
+      "question": "How many criteria does the PRISMA checklist provide for systematic reviews?",
+      "answer": "The PRISMA framework provides a checklist of 27 criteria referring to key study points in systematic reviews and meta-analyses."
+    },
+    {
+      "question": "What are the four main phases in the PRISMA flow diagram?",
+      "answer": "The four main phases are: 1) Identification (of studies via databases and other methods), 2) Screening (of records), 3) Eligibility assessment (of reports), and 4) Included (final studies included in review)."
+    },
+    {
+      "question": "What are the two pathways for identifying studies in the PRISMA framework?",
+      "answer": "The two pathways are: 1) Identification of studies via databases and registers, and 2) Identification of studies via other methods (websites, organizations, citation searching, etc.)."
+    },
+    {
+      "question": "What happens during the 'Identification' phase of a PRISMA systematic review?",
+      "answer": "During the Identification phase, records are identified from databases and registers or other sources. Duplicate records are removed, records are marked as ineligible by automation tools, and records are removed for other reasons before screening begins."
+    },
+    {
+      "question": "What happens during the 'Screening' phase of a PRISMA systematic review?",
+      "answer": "During the Screening phase, records are screened for relevance, with excluded records documented. Reports are then sought for retrieval, and those successfully retrieved move to eligibility assessment."
+    },
+    {
+      "question": "What happens during the 'Eligibility' phase of a PRISMA systematic review?",
+      "answer": "During the Eligibility phase, retrieved reports are assessed against pre-defined eligibility criteria. Reports that don't meet criteria are excluded with specific reasons documented (Reason 1, Reason 2, etc.)."
+    },
+    {
+      "question": "When are inclusion and exclusion criteria determined in a systematic review?",
+      "answer": "Inclusion and exclusion criteria are determined after setting the research question, usually before the search is conducted. They set the boundaries for the systematic review."
+    },
+    {
+      "question": "What are common inclusion and exclusion criteria for systematic reviews?",
+      "answer": "Common criteria include: Date, Topic fit, Geographic location, Participants, Study design, Type of publication, Setting, and Peer review status."
+    },
+    {
+      "question": "Where are inclusion and exclusion criteria typically documented in a systematic review?",
+      "answer": "Inclusion and exclusion criteria are usually recorded as a paragraph or table within the methods section of the systematic review."
+    },
+    {
+      "question": "Why are inclusion and exclusion criteria important in systematic reviews?",
+      "answer": "They set clear boundaries for the systematic review, ensure consistency in study selection, make the review process transparent and replicable, and are highly individualized according to the specific research question."
+    },
+    {
+      "question": "What are the two main publication types focused on in academic systematic reviews?",
+      "answer": "The two main types are: 1) Research journals (peer-reviewed academic journals), and 2) Articles in edited volumes (including conference proceedings)."
+    },
+    {
+      "question": "What other publication types might be considered in systematic reviews besides research journals?",
+      "answer": "Other types include: Textbooks, Newspapers, Magazines, Blogs, and other grey literature sources."
+    },
+    {
+      "question": "What are the three main assessment criteria for journal quality mentioned in the presentation?",
+      "answer": "The three main criteria are: 1) VHB Ranking (A-B level), 2) Scimago Ranking (Q1 level), and 3) Journal Impact Factor (>= 3.0). Studies can qualify by meeting any one of these criteria."
+    },
+    {
+      "question": "What does VHB Ranking stand for and what levels are considered high quality?",
+      "answer": "VHB stands for Verband der Hochschullehrer für Betriebswirtschaft (German Academic Association for Business Research). Rankings A and B are considered high quality for inclusion in systematic reviews."
+    },
+    {
+      "question": "What is the Scimago Journal Rank (SJR) and what level indicates high quality?",
+      "answer": "Scimago Journal Rank is a measure of scientific influence of scholarly journals that accounts for both citations and the prestige of the journals. Q1 (first quartile) ranking indicates high quality journals."
+    },
+    {
+      "question": "What Journal Impact Factor threshold is used as a quality criterion?",
+      "answer": "A Journal Impact Factor of >= 3.0 (greater than or equal to 3.0) is used as a quality threshold for including journals in systematic reviews."
+    },
+    {
+      "question": "What is the relationship between the three journal quality criteria (VHB, Scimago, JIF)?",
+      "answer": "The criteria are connected by 'OR' logic, meaning a journal only needs to meet ONE of the three criteria (VHB A-B OR Scimago Q1 OR JIF >= 3.0) to be considered high quality for inclusion."
+    },
+    {
+      "question": "What visual metaphor is used to represent systematic literature reviews on the title slide?",
+      "answer": "The visual shows multiple document icons being combined (with plus signs) to create a single, comprehensive document - representing how systematic reviews synthesize multiple studies into one unified summary."
+    },
+    {
+      "question": "What website provides the official PRISMA statement and guidelines?",
+      "answer": "The official PRISMA guidelines are available at www.prisma-statement.org, which provides comprehensive guidance for conducting and reporting systematic reviews and meta-analyses."
+    },
+    {
+      "question": "What does the PRISMA flow diagram help researchers visualize?",
+      "answer": "The PRISMA flow diagram depicts the flow of information through the different phases of a systematic review, showing how studies are identified, screened, assessed for eligibility, and ultimately included or excluded."
+    },
+    {
+      "question": "In the PRISMA framework, what information should be recorded about excluded reports?",
+      "answer": "For excluded reports, researchers should document the specific reasons for exclusion (Reason 1, Reason 2, Reason 3, etc.) and the number of reports excluded for each reason (n = )."
+    },
+    {
+      "question": "What example study is shown using the PRISMA framework in the presentation?",
+      "answer": "The presentation shows a study by Chambergo-Michilot et al. (2020) that evaluated the effects of SMS text reminders in promoting sun protection habits using randomized controlled trials."
+    },
+    {
+      "question": "In the Chambergo-Michilot et al. example, how many records were initially identified through database searching?",
+      "answer": "1,333 records were initially identified through database searching, and after removing duplicates, 1,092 records remained for screening."
+    },
+    {
+      "question": "In the Chambergo-Michilot et al. example, how many final articles were included in the qualitative synthesis?",
+      "answer": "Six (6) articles were included in the qualitative synthesis, corresponding to 5 randomized controlled trials (RCTs)."
+    },
+    {
+      "question": "What are some reasons articles were excluded in the Chambergo-Michilot et al. study?",
+      "answer": "Articles were excluded for reasons including: No control group (n=3), Does not assess outcomes of interest (n=8), Does not use SMS text-message reminders (n=14), Full-text not found (n=2), and Includes several interventions but results for SMS not shown separately (n=1)."
+    },
+    {
+      "question": "What is shown in the bibliometric analysis example of PLS-SEM research?",
+      "answer": "The example shows network visualizations including author collaboration networks and historical direct citation networks, demonstrating how bibliometric analysis can map research evolution and key contributors in a field over time."
+    },
+    {
+      "question": "What does the bibliometric analysis visualization reveal about PLS-SEM research development?",
+      "answer": "The visualization shows research evolution from foundational work (Monte Carlo studies, theoretical models) to more recent applications and methodological developments, with clear temporal progression and citation relationships between key works."
+    },
+    {
+      "question": "What is one key aim of systematic reviews related to theory development?",
+      "answer": "To develop and evaluate a new theory or evaluate an existing theory or theories to explain how and why individual studies fit together."
+    },
+    {
+      "question": "How do systematic reviews identify research gaps?",
+      "answer": "By critiquing and synthesizing one or more literatures to identify relations, contradictions, gaps, and inconsistencies, and exploring the reasons for these patterns in the research."
+    },
+    {
+      "question": "What practical value do systematic reviews provide?",
+      "answer": "Systematic reviews provide implications for practice and policy, translating research findings into actionable recommendations for practitioners and policymakers."
+    },
+    {
+      "question": "How do systematic reviews guide future research?",
+      "answer": "They outline important directions for future research by highlighting where evidence is lacking or of poor quality, identifying understudied areas and methodological weaknesses."
+    },
+    {
+      "question": "What does 'unbiased summary' mean in the context of systematic reviews?",
+      "answer": "An unbiased summary means the review uses systematic, transparent methods with pre-specified criteria to minimize researcher bias and provide objective conclusions about what the cumulative evidence shows."
+    },
+    {
+      "question": "What is the visual metaphor shown comparing unsystematic vs systematic literature organization?",
+      "answer": "The slides show a messy, disorganized bookshelf with books stacked randomly (representing unsystematic literature) transforming into a neat, color-organized bookshelf (representing systematic organization through literature reviews)."
+    },
+    {
+      "question": "Who are the target users of PRISMA guidelines according to the website?",
+      "answer": "Authors conducting systematic reviews and meta-analyses, and journal peer reviewers and editors who use PRISMA for critical appraisal of published systematic reviews (though it is not a quality assessment instrument)."
+    },
+    {
+      "question": "What is the difference between 'Records' and 'Reports' in PRISMA terminology?",
+      "answer": "Records refer to initial database search results (titles and abstracts), while Reports refer to full-text articles that are retrieved and assessed in detail for eligibility."
+    },
+    {
+      "question": "What happens to duplicate records in the PRISMA process?",
+      "answer": "Duplicate records are removed during the Identification phase, before screening begins. The number of duplicates removed should be documented in the flow diagram."
+    },
+    {
+      "question": "What role do automation tools play in the PRISMA process?",
+      "answer": "Automation tools can mark records as ineligible during the Identification phase, helping to efficiently screen out clearly irrelevant studies. The number of records marked ineligible by automation should be documented."
+    },
+    {
+      "question": "Why might reports not be retrieved in a systematic review?",
+      "answer": "Reports might not be retrieved due to access restrictions (paywalls), unavailable full texts, language barriers, lost or unpublished materials, or technical issues accessing the source."
+    },
+    {
+      "question": "What are 'other methods' for identifying studies besides databases in PRISMA?",
+      "answer": "Other methods include: searching websites, contacting organizations, citation searching (backward and forward citations), hand-searching journals, and checking reference lists of included studies."
+    },
+    {
+      "question": "What are the learning objectives for the systematic literature review lecture?",
+      "answer": "1) Know about the PRISMA framework for conducting systematic literature reviews, 2) Understand the basic principles of retrieving, analyzing, and reporting the state of research, 3) Be able to conduct a systematic literature review using the PRISMA approach."
+    },
+    {
+      "question": "What are the main content topics covered in Part 1 of the Methods in Management lecture?",
+      "answer": "1) Why systematic literature reviews?, 2) Differences between systematic literature reviews, meta-analyses, and bibliometric analyses, 3) The PRISMA framework, 4) Quality criteria for systematic literature reviews."
+    },
+    {
+      "question": "What is the significance of documenting the number of studies at each PRISMA stage?",
+      "answer": "Documenting numbers (n = ) at each stage ensures transparency, allows readers to understand the selection process, demonstrates rigor, and enables assessment of whether the search was comprehensive and the screening consistent."
+    },
+    {
+      "question": "What is the final output of a systematic review following PRISMA guidelines?",
+      "answer": "The final output includes: studies included in the review (with documented number), reports of included studies, and a comprehensive PRISMA flow diagram showing the complete selection process from identification through inclusion."
+    },
+    {
+      "question": "How does the PRISMA 2021 version improve upon earlier versions?",
+      "answer": "PRISMA 2021 separates identification into two pathways (databases/registers and other methods), provides clearer distinction between records and reports, and offers more detailed guidance on documenting the screening and eligibility assessment processes."
+    }
+  ]
+}
